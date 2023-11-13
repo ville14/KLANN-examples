@@ -2,56 +2,46 @@
 
 ## Face Bender
 
-### Input
-
+Input
 <audio controls>
   <source src="{{site.baseurl}}/facebender-example/facebender-rndamp-input.wav" type="audio/ogg">
   <source src="{{site.baseurl}}/facebender-example/facebender-rndamp-input.wav" type="audio/ogg">
   Your browser does not support the audio tag.
 </audio>
-
-### Target
-
+Target
 <audio controls>
   <source src="{{site.baseurl}}/facebender-example/facebender-rndamp-target.wav" type="audio/ogg">
   <source src="{{site.baseurl}}/facebender-example/facebender-rndamp-target.wav" type="audio/ogg">
   Your browser does not support the audio tag.
 </audio>
 
-### small parallel model
-
+small parallel model
 <audio controls>
   <source src="{{site.baseurl}}/facebender-example/facebender-rndamp_MSE_MR-STFT_3_4_5_MODEL1_5_8_hat.wav" type="audio/ogg">
   <source src="{{site.baseurl}}/facebender-example/facebender-rndamp_MSE_MR-STFT_3_4_5_MODEL1_5_8_hat.wav" type="audio/ogg">
   Your browser does not support the audio tag.
 </audio>
-
-### large parallel model
-
+large parallel model
 <audio controls>
   <source src="{{site.baseurl}}/facebender-example/facebender-rndamp_MSE_MR-STFT_5_10_15_MODEL1_15_4_hat.wav" type="audio/ogg">
   <source src="{{site.baseurl}}/facebender-example/facebender-rndamp_MSE_MR-STFT_5_10_15_MODEL1_15_4_hat.wav" type="audio/ogg">
   Your browser does not support the audio tag.
 </audio>
 
-### small parallel-series model
-
+small parallel-series model
 <audio controls>
   <source src="{{site.baseurl}}/facebender-example/facebender-rndamp_MSE_MR-STFT_3_4_5_MODEL2_5_15_hat.wav" type="audio/ogg">
   <source src="{{site.baseurl}}/facebender-example/facebender-rndamp_MSE_MR-STFT_3_4_5_MODEL2_5_15_hat.wav" type="audio/ogg">
   Your browser does not support the audio tag.
 </audio>
-
-### large parallel-series model
-
+large parallel-series model
 <audio controls>
   <source src="{{site.baseurl}}/facebender-example/facebender-rndamp_MSE_MR-STFT_5_10_15_MODEL2_15_15_hat.wav" type="audio/ogg">
   <source src="{{site.baseurl}}/facebender-example/facebender-rndamp_MSE_MR-STFT_5_10_15_MODEL2_15_15_hat.wav" type="audio/ogg">
   Your browser does not support the audio tag.
 </audio>
 
-### GCNTF-3
-
+GCNTF-3
 <audio controls>
   <source src="{{site.baseurl}}/facebender-example/facebender-rndamp_GCNTF3.wav" type="audio/ogg">
   <source src="{{site.baseurl}}/facebender-example/facebender-rndamp_GCNTF3.wav" type="audio/ogg">
@@ -60,56 +50,46 @@
 
 ## LA-2A
 
-### Input
-
+Input
 <audio controls>
   <source src="{{site.baseurl}}/la-2a-example/la2a-input.wav" type="audio/ogg">
   <source src="{{site.baseurl}}/la-2a-example/la2a-input.wav" type="audio/ogg">
   Your browser does not support the audio tag.
 </audio>
-
-### Target
-
+Target
 <audio controls>
   <source src="{{site.baseurl}}/la-2a-example/la2a-target.wav" type="audio/ogg">
   <source src="{{site.baseurl}}/la-2a-example/la2a-target.wav" type="audio/ogg">
   Your browser does not support the audio tag.
 </audio>
 
-### small parallel model
-
+small parallel model
 <audio controls>
   <source src="{{site.baseurl}}/la-2a-example/la2a_MSE_MR-STFT_3_4_5_MODEL1_5_2_hat.wav" type="audio/ogg">
   <source src="{{site.baseurl}}/la-2a-example/la2a_MSE_MR-STFT_3_4_5_MODEL1_5_2_hat.wav" type="audio/ogg">
   Your browser does not support the audio tag.
 </audio>
-
-### large parallel model
-
+large parallel model
 <audio controls>
   <source src="{{site.baseurl}}/la-2a-example/la2a_MSE_MR-STFT_5_10_15_MODEL1_15_2_hat.wav" type="audio/ogg">
   <source src="{{site.baseurl}}/la-2a-example/la2a_MSE_MR-STFT_5_10_15_MODEL1_15_2_hat.wav" type="audio/ogg">
   Your browser does not support the audio tag.
 </audio>
 
-### small parallel-series model
-
+small parallel-series model
 <audio controls>
   <source src="{{site.baseurl}}/la-2a-example/la2a_MSE_MR-STFT_3_4_5_MODEL2_5_2_hat.wav" type="audio/ogg">
   <source src="{{site.baseurl}}/la-2a-example/la2a_MSE_MR-STFT_3_4_5_MODEL2_5_2_hat.wav" type="audio/ogg">
   Your browser does not support the audio tag.
 </audio>
-
-### large parallel-series model
-
+large parallel-series model
 <audio controls>
   <source src="{{site.baseurl}}/la-2a-example/la2a_MSE_MR-STFT_5_10_15_MODEL2_15_4_hat.wav" type="audio/ogg">
   <source src="{{site.baseurl}}/la-2a-example/la2a_MSE_MR-STFT_5_10_15_MODEL2_15_4_hat.wav" type="audio/ogg">
   Your browser does not support the audio tag.
 </audio>
 
-### GCNTF-3
-
+GCNTF-3
 <audio controls>
   <source src="{{site.baseurl}}/la-2a-example/la2a-GCNTF3.wav" type="audio/ogg">
   <source src="{{site.baseurl}}/la-2a-example/la2a-GCNTF3.wav" type="audio/ogg">
@@ -118,32 +98,26 @@
 
 ## MCompressor 1 ms attack 1000 ms release
 
-### Input
-
+Input
 <audio controls>
   <source src="{{site.baseurl}}/mcompressor-example/mcomp-rndamp-A1msR1000ms-input.wav" type="audio/ogg">
   <source src="{{site.baseurl}}/mcompressor-example/mcomp-rndamp-A1msR1000ms-input.wav" type="audio/ogg">
   Your browser does not support the audio tag.
 </audio>
-
-### Target
-
+Target
 <audio controls>
   <source src="{{site.baseurl}}/mcompressor-example/mcomp-rndamp-A1msR1000ms-target.wav" type="audio/ogg">
   <source src="{{site.baseurl}}/mcompressor-example/mcomp-rndamp-A1msR1000ms-target.wav" type="audio/ogg">
   Your browser does not support the audio tag.
 </audio>
 
-### small parallel model
-
+small parallel model
 <audio controls>
   <source src="{{site.baseurl}}/mcompressor-example/mcomp-rndamp-A1msR1000ms_MSE_MR-STFT_3_4_5_MODEL1_5_2_hat.wav" type="audio/ogg">
   <source src="{{site.baseurl}}/mcompressor-example/mcomp-rndamp-A1msR1000ms_MSE_MR-STFT_3_4_5_MODEL1_5_2_hat.wav" type="audio/ogg">
   Your browser does not support the audio tag.
 </audio>
-
-### large parallel model
-
+large parallel model
 <audio controls>
   <source src="{{site.baseurl}}/mcompressor-example/mcomp-rndamp-A1msR1000ms_MSE_MR-STFT_5_10_15_MODEL1_15_2_hat.wav" type="audio/ogg">
   <source src="{{site.baseurl}}/mcompressor-example/mcomp-rndamp-A1msR1000ms_MSE_MR-STFT_5_10_15_MODEL1_15_2_hat.wav" type="audio/ogg">
@@ -151,24 +125,20 @@
 </audio>
 
 
-### small parallel-series model
-
+small parallel-series model
 <audio controls>
   <source src="{{site.baseurl}}/mcompressor-example/mcomp-rndamp-A1msR1000ms_MSE_MR-STFT_3_4_5_MODEL2_5_2_hat.wav" type="audio/ogg">
   <source src="{{site.baseurl}}/mcompressor-example/mcomp-rndamp-A1msR1000ms_MSE_MR-STFT_3_4_5_MODEL2_5_2_hat.wav" type="audio/ogg">
   Your browser does not support the audio tag.
 </audio>
-
-### large parallel-series model
-
+large parallel-series model
 <audio controls>
   <source src="{{site.baseurl}}/mcompressor-example/mcomp-rndamp-A1msR1000ms_MSE_MR-STFT_5_10_15_MODEL2_15_3_hat.wav" type="audio/ogg">
   <source src="{{site.baseurl}}/mcompressor-example/mcomp-rndamp-A1msR1000ms_MSE_MR-STFT_5_10_15_MODEL2_15_3_hat.wav" type="audio/ogg">
   Your browser does not support the audio tag.
 </audio>
 
-### GCNTF-2500
-
+GCNTF-2500
 <audio controls>
   <source src="{{site.baseurl}}/mcompressor-example/mcomp-rndamp-A1msR1000ms_GCNTF2500.wav" type="audio/ogg">
   <source src="{{site.baseurl}}/mcompressor-example/mcomp-rndamp-A1msR1000ms_GCNTF2500.wav" type="audio/ogg">
