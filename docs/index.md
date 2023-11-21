@@ -1,5 +1,8 @@
-# Audio examples
+# Accompanying websites
+[Koopman-based-deep-network](https://github.com/ville14/Koopman-based-deep-network)
+[Paper]()
 
+# Audio examples
 
 | | Face Bender | MCompressor | LA-2A |
 | ------------- | ------------- | ------------- | ------------- |
