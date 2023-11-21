@@ -1,6 +1,5 @@
 # Accompanying websites
-[Koopman-based-deep-network](https://github.com/ville14/Koopman-based-deep-network)
-[Paper]()
+[GitHub](https://github.com/ville14/Koopman-based-deep-network), [Paper]()
 
 # Audio examples
 
