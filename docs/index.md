@@ -1,5 +1,7 @@
 # Accompanying websites
-[GitHub](https://github.com/ville14/Koopman-based-deep-network), [Paper]()
+
+| [Code](https://github.com/ville14/KLANN) | [Paper]() |
+| ------------- | ------------- |
 
 # Audio examples
 
