@@ -1,7 +1,7 @@
 # Accompanying websites
 
 | [Code](https://github.com/ville14/KLANN) | [Paper]() |
-| ------------- | ------------- |
+|-|-|
 
 # Audio examples
 
